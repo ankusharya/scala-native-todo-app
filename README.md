@@ -12,7 +12,7 @@ feature for TODOS.
 2. After compilation is complete, you will get executable in  `target/scala-version/project-name-out`
 3. Eg - (In my case it was) `target/scala-2.11/scala-native-todo-app-out`
 
-###Usage
+### Usage
 1. `target/scala-2.11/scala-native-todo-app-out --help` to get help
 2. `target/scala-2.11/scala-native-todo-app-out list` to list all todo
 3. `target/scala-2.11/scala-native-todo-app-out add -t "My first task"` add todo
